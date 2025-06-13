@@ -6,7 +6,6 @@ import './App.css';
 const App = () => {
   return (
     <div className="app">
-        <Router>
         <div className="navbar">
             <Navbar />
         </div>
@@ -36,7 +35,6 @@ const App = () => {
         </div>
 
         </div>
-        </Router>
     </div>
   );
 }
