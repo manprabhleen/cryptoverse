@@ -1,5 +1,5 @@
 import React from 'react';
-import {BrowserRouter as Router, Routes, Route, Link} from 'react-router-dom';
+import {Routes, Route, Link} from 'react-router-dom';
 import {Layout, Typography, Space} from 'antd';
 import {Navbar, Exchanges, Homepage, Cryptocurrencies, News, CryptoDetails } from  './components';
 import './App.css';
